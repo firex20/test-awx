@@ -1,5 +1,4 @@
 ---
 roles:
-  - name: geerlingguy.swap
-  - name: geerlingguy.docker
+  - name: geerlingguy.containerd
   - name: geerlingguy.kubernetes
