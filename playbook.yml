@@ -3,8 +3,4 @@
   become: yes
 
   roles:
-    - role: geerlingguy.containerd
-      tags: ['docker']
-
-    - role: geerlingguy.kubernetes
-      tags: ['kubernetes']
+    - role: geerlingguy.apache
